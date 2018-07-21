@@ -1,0 +1,8 @@
+                       BIG INTEGER LIBRARY in C++
+    
+    A dynamic C++ library to operate on really big integers; both signed & unsigned,
+with all the basic integer operations (as one can do with standard C/C++ primitive 
+integer data types like "int"/"long"/"long long") provided.
+
+ [N.B: Type in the line "export LD_LIBRARY_PATH=./Test:$LD_LIBRARY_PATH" in your
+        terminal before running the executable "test"]

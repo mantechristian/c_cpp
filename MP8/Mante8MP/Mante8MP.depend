@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1431222463 source:c:\users\christian\documents\cmsc21\machine problems\mp8\list.cpp
+	"list.h"
+
+1431222334 c:\users\christian\documents\cmsc21\machine problems\mp8\list.h
+	<iostream>
+
+1431223175 source:c:\users\christian\documents\cmsc21\machine problems\mp8\mante8.cpp
+	<iostream>
+	"list.h"
+
+1431223214 source:c:\users\christian\documents\cmsc21\machine problems\mp8\mante8mp\main.cpp
+	<iostream>
+	"list.h"
+
+1431222334 c:\users\christian\documents\cmsc21\machine problems\mp8\mante8mp\list.h
+	<iostream>
+
